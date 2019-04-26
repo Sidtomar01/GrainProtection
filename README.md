@@ -8,7 +8,7 @@ caused by investing in building new cold storage facilities over the next five y
 The project aims at providing a helping hand to the farmers and FCI officials by informing them about the future rainfall 
 patterns around the area and the nearest safe house where the grains can be transported in order to avoid their wastage.
 
-This project involves modules like:
+This project involves the below mentioned modules, all inside a single android application:
 - Notifying farmers and officials if there are any chances of rainfall in the next 7 days.
 - Directing officials to nearest safe depot with available storage capacity for grain transfer.
 - Collecting feedback/complaint from users about grain wastage locations.
